@@ -32,8 +32,3 @@ def extract_feature(data):
             process_list.clear()
     for p in process_list:
         p.join()
-
-if __name__ == "__main__":
-    # extract_feature('train')
-    # extract_feature('test')
-    pass

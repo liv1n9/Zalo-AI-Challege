@@ -1,5 +1,4 @@
 from regression_model.hotness import Hotness
 
-if __name__ == '__main__':
-    h = Hotness()
-    h.compute()
+a = [1, 2, 3, 4]
+print(a[1:])
